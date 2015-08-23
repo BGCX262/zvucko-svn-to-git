@@ -1,0 +1,5 @@
+MANUAL: COMPILING THE CODE
+
+This project was made in Microsoft Visual Studio 2005.
+Project solution is in the „trunk“ folder, and its name is „MMS.sln“.
+There is one additional plugin inside the project, it is „ikpMP3“ plugin, for playing audio files, which are in .mp3 format.

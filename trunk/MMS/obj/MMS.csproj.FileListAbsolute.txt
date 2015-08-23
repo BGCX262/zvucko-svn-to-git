@@ -1,0 +1,17 @@
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\bin\Debug\MMS.exe
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\bin\Debug\MMS.pdb
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\obj\Debug\MMS.Form1.resources
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\obj\Debug\MMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\obj\Debug\MMS.exe
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\MMS\obj\Debug\MMS.pdb
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\bin\Debug\MMS.exe
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\bin\Debug\MMS.pdb
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\MMS.Form1.resources
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\MMS.Properties.Resources.resources
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\MMS.csproj.GenerateResource.Cache
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\MMS.exe
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\MMS.pdb
+C:\Documents and Settings\Semir\My Documents\Visual Studio 2005\Projects\MMS\zvucko\trunk\MMS\obj\Debug\MMS.ConvertOpcije.resources
